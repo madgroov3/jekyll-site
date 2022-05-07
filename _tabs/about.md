@@ -12,3 +12,8 @@ My interests are:
 - Philosophy & Literature
 - Linguistics 
 - Psychology & Neuroscience
+
+As for this page, I intend for it to be a way for documenting and journaling. Also as an outlet for when the energy was to go somewhere.
+
+
+And btw everthing on this page is WIP
