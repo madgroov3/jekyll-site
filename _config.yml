@@ -23,7 +23,7 @@ timezone: Europe
 
 title: madgroove                          # the main title
 
-tagline:  # it will display as the sub-title
+tagline: Blog & Ramblings  # it will display as the sub-title
 
 description: Blog & ramblings by madgroove                         # used by seo meta and the atom feed
 
@@ -43,7 +43,7 @@ social:
   email: WIP             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/madgroov3 # change to your twitter homepage
     - https://github.com/madgroov3 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -82,7 +82,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/assets/img/logo/hhb.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
