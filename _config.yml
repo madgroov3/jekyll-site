@@ -25,8 +25,7 @@ title: madgroove                          # the main title
 
 tagline:  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-Blog & ramblings by madgroove
+description: Blog & ramblings by madgroove                         # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'madgroove.xyz'
