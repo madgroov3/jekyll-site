@@ -1,22 +1,46 @@
 ---
-title: grooves
+title: Grooves
 icon: fas fa-info-circle
 order: 4
 ---
 
-> NOTE: WIP
+> WIP
 
 # Top grooves
 
-## jazz
 
-Herbie Hancock - Head Hunters
 
-## blues 
 
-- 
+# Artist / Albums
 
-## jazz
+## Jazz
+
+- Herbie Hancock 
+  - Head Hunters
+  - Thrust
+  - Secrets
+
+
+## Yugofunk
+
+- Igor Savin
+  - Yu Disco Express
+- Asanović Tihomir Pop
+  - Pop
+
+## Blues 
+
+- Albert King 
+   - I Wanna Get Funky
+   - Roadhouse Blues
+- Freddie King  
+  - My Feelings For the Blues
+- Howlin' Wolf
+- Muddy Waters
+- Lightnin' Hopkins
+- Robert Johnson 
+
+## Misc 
 
 - 
 
