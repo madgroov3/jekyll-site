@@ -1,6 +1,6 @@
 ---
 title: Grooves
-icon: fas fa-info-circle
+icon: 
 order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: whoami
-icon: fas fa-info-circle
+icon: 
 order: 4
 ---
 
