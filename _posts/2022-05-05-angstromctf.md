@@ -7,7 +7,7 @@ tags: [ctf, web, cookie, auth]
 
 # Auth Skip
 
-Goal is to do the legendary "Auth Skip", like in true speedrunner fashion, finding an exploit, conquering the leaderboard!
+Goal is to do the legendary "Auth Skip", like in true speedrunner fashion, finding an exploit, getting those gold splits, conquering the leaderboard!
 
 Given the source code, i began to look at the logic of the cookies used for authentication.
 
@@ -56,6 +56,7 @@ The vuln lies in the following lines:
         res.cookie("user", "admin");
         res.redirect("/");
 ```
+{: .nolineno }
 
 We can set our cookie to something like, `user=admin`  and we can ommit the password, as it doesn't require us to provide one.
 
@@ -69,6 +70,7 @@ app.get("/", (req, res) => {
         res.sendFile(path.join(__dirname, "index.html"));
     }
 ```
+{: .nolineno }
 
 --- 
 
