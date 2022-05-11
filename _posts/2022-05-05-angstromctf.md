@@ -104,7 +104,7 @@ Cookie: user=admin
 
 et voilà !
 
-```http
+```
 HTTP/2 200 OK
 Date: Wed, 04 May 2022 14:44:26 GMT
 Content-Type: text/plain; charset=utf-8
