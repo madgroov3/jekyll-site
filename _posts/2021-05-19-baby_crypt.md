@@ -36,7 +36,7 @@ We then investigate in ghidra
 
 The main function looks like this
 
-```C
+```c
 undefined8 main(void)
 
 {
