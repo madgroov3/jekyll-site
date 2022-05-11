@@ -91,12 +91,14 @@ Sec-Fetch-Dest: document
 Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.9
 ```
+{: .nolineno }
 
 Simply add the cookie to the request
 
 ```http
 Cookie: user=admin
 ```
+{: .nolineno }
 
 et voilà !
 
@@ -111,5 +113,6 @@ Strict-Transport-Security: max-age=15724800; includeSubDomains
 
 actf{passwordless_authentication_is_the_new_hip_thing}
 ```
+{: .nolineno }
 
 ### Aut viam inveniam aut faciam    
