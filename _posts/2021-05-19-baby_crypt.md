@@ -2,7 +2,7 @@
 Title: ÅngstromCTF
 Date: 2021-04-19 00:00:00 +0000
 categories: [Writeups, htb]
-tags: [Challenge, easy, reversing]
+tags: [challenge, HTB, easy, reversing]
 ---
 
 
