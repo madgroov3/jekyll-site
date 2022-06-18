@@ -1,5 +1,5 @@
 ---
-Title: ÅngstromCTF
+Title: Baby crypt
 Date: 2021-04-19 00:00:00 +0000
 categories: [Writeups, htb]
 tags: [challenge, HTB, easy, reversing]
