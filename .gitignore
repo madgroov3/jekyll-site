@@ -12,6 +12,11 @@
 _site
 vendor
 Gemfile.lock
+.bundle/
+vendor/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 # rubygem
 *.gem
